@@ -5,7 +5,7 @@
 ![Space Asteroids Logo](https://github.com/shahafbr/Algorithems_Board_Game/raw/main/space_asteroids/assets/sprites/space.png)
 
 ## 🌟 Project Overview
-Space Asteroids is an engaging and dynamic arcade game set in the vast expanse of space. Developed by @shahafbr, this project brings thrilling asteroid-dodging action to your screen, challenging players to navigate through perilous space environments.
+Space Asteroids is an engaging and dynamic arcade game set in the vast expanse of space. Developed by @smaswin21 & @shahafbr, this project brings thrilling asteroid-dodging action to your screen, challenging players to navigate through perilous space environments.
 
 ### Key Features:
 - 🚀 Intense space navigation and asteroid dodging gameplay.
